@@ -82,7 +82,7 @@ GitSpot aims to simplify exploring GitHub profiles by providing an accessible an
 - If a username doesn’t exist, an error card is displayed with a clear message.
 - Issues with API requests (e.g., network errors) are also handled gracefully.
 ---
-# 🎨 **User Interface Design
+# 🎨 User Interface Design
 # Profile Card
 - Circular **avatar** with a hover zoom effect.
 - Detailed user statistics rendered in an **info block** with a subtle shadow for depth.
